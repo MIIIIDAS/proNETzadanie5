@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proNETzadanie5", "proNETzadanie5\proNETzadanie5.csproj", "{EC391721-2AF5-40CA-9F87-AC24DDAF75B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC391721-2AF5-40CA-9F87-AC24DDAF75B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC391721-2AF5-40CA-9F87-AC24DDAF75B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC391721-2AF5-40CA-9F87-AC24DDAF75B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC391721-2AF5-40CA-9F87-AC24DDAF75B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5695FFFE-25A6-4D81-A7BA-2C9E24D9FA81}
+	EndGlobalSection
+EndGlobal
