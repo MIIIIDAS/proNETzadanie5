@@ -1,0 +1,1 @@
+Zadanie 5. Zapisywanie do pliku binarnego. Proszę stworzyć rpogram, który w zależności od wyboru użytkownika albo 1. pobiera dane od użytkownika (np. imię, wiek, adres) i zapisuje je do pliku binarnego za pomocą FileStream albo odczytuje te dane z pliku i wyświetla je na ekranie.
